@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-25T14:36:39 IST" name="Suite" finished-at="2022-11-25T14:37:42 IST" duration-ms="62946">
+    <groups>
+    </groups>
+    <test started-at="2022-11-25T14:36:39 IST" name="Test" finished-at="2022-11-25T14:37:42 IST" duration-ms="62946">
+      <class name="Testcasses.Verify_brokenlink">
+        <test-method is-config="true" signature="lunch()[pri:0, instance:Testcasses.Verify_brokenlink@7fd50002]" started-at="2022-11-25T14:37:04 IST" name="lunch" finished-at="2022-11-25T14:37:07 IST" duration-ms="3117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunch -->
+        <test-method signature="brokenlinks()[pri:0, instance:Testcasses.Verify_brokenlink@7fd50002]" started-at="2022-11-25T14:37:07 IST" name="brokenlinks" finished-at="2022-11-25T14:37:18 IST" duration-ms="11141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brokenlinks -->
+        <test-method is-config="true" signature="end()[pri:0, instance:Testcasses.Verify_brokenlink@7fd50002]" started-at="2022-11-25T14:37:18 IST" name="end" finished-at="2022-11-25T14:37:18 IST" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- Testcasses.Verify_brokenlink -->
+      <class name="Testcasses.verifyproductprice">
+        <test-method is-config="true" signature="lunch()[pri:0, instance:Testcasses.verifyproductprice@5e2c3d18]" started-at="2022-11-25T14:36:39 IST" name="lunch" finished-at="2022-11-25T14:36:48 IST" duration-ms="8478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunch -->
+        <test-method signature="price()[pri:0, instance:Testcasses.verifyproductprice@5e2c3d18]" started-at="2022-11-25T14:36:48 IST" name="price" finished-at="2022-11-25T14:37:03 IST" duration-ms="15834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- price -->
+        <test-method is-config="true" signature="end()[pri:0, instance:Testcasses.verifyproductprice@5e2c3d18]" started-at="2022-11-25T14:37:03 IST" name="end" finished-at="2022-11-25T14:37:04 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- Testcasses.verifyproductprice -->
+      <class name="Testcasses.verifylogin">
+        <test-method is-config="true" signature="lunch()[pri:0, instance:Testcasses.verifylogin@533bda92]" started-at="2022-11-25T14:37:18 IST" name="lunch" finished-at="2022-11-25T14:37:23 IST" duration-ms="5104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunch -->
+        <test-method signature="login()[pri:0, instance:Testcasses.verifylogin@533bda92]" started-at="2022-11-25T14:37:23 IST" name="login" finished-at="2022-11-25T14:37:42 IST" duration-ms="18301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="end()[pri:0, instance:Testcasses.verifylogin@533bda92]" started-at="2022-11-25T14:37:42 IST" name="end" finished-at="2022-11-25T14:37:42 IST" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- Testcasses.verifylogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
